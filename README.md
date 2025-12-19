@@ -142,6 +142,6 @@ This project was developed as part of a Data Structures & Algorithms (DSA) cours
 
 👨‍💻 Author
 
-Sai Siddhu
-Engineering Student
+K Sai Siddhartha Reddy
+
 (Data Structures & Algorithms Project)
